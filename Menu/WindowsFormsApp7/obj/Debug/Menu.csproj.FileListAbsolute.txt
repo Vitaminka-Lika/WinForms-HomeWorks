@@ -1,0 +1,9 @@
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Menu.resources
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\СарбасоваА.CORP\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb

@@ -1,0 +1,9 @@
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
