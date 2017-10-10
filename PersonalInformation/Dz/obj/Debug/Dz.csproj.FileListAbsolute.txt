@@ -1,0 +1,9 @@
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\bin\Debug\Dz.exe.config
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\bin\Debug\Dz.exe
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\bin\Debug\Dz.pdb
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\obj\Debug\Dz.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\obj\Debug\Dz.Form1.resources
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\obj\Debug\Dz.Properties.Resources.resources
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\obj\Debug\Dz.csproj.GenerateResource.Cache
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\obj\Debug\Dz.exe
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dz\Dz\obj\Debug\Dz.pdb
