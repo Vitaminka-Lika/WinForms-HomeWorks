@@ -1,0 +1,19 @@
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\bin\Debug\Dates.exe.config
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\bin\Debug\Dates.exe
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\bin\Debug\Dates.pdb
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\obj\Debug\Dates.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\obj\Debug\Dates.Dates.resources
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\obj\Debug\Dates.Properties.Resources.resources
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\obj\Debug\Dates.csproj.GenerateResource.Cache
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\obj\Debug\Dates.exe
+c:\users\сарбасоваа.corp\documents\visual studio 2017\Projects\Dates\Dates\obj\Debug\Dates.pdb
+C:\Users\Alika\Desktop\Dates\Dates\obj\Debug\Dates.csprojResolveAssemblyReference.cache
+C:\Users\Alika\Desktop\Dates\Dates\obj\Debug\Dates.Dates.resources
+C:\Users\Alika\Desktop\Dates\Dates\obj\Debug\Dates.Properties.Resources.resources
+C:\Users\Alika\Desktop\Dates\Dates\obj\Debug\Dates.csproj.GenerateResource.Cache
+C:\Users\Alika\Desktop\Dates\Dates\obj\Debug\Dates.csproj.CoreCompileInputs.cache
+C:\Users\Alika\Desktop\Dates\Dates\obj\Debug\Dates.exe
+C:\Users\Alika\Desktop\Dates\Dates\obj\Debug\Dates.pdb
+C:\Users\Alika\Desktop\Dates\Dates\bin\Debug\Dates.exe.config
+C:\Users\Alika\Desktop\Dates\Dates\bin\Debug\Dates.exe
+C:\Users\Alika\Desktop\Dates\Dates\bin\Debug\Dates.pdb
