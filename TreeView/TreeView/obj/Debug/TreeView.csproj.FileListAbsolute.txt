@@ -1,0 +1,10 @@
+c:\users\alika\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe.config
+c:\users\alika\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe
+c:\users\alika\source\repos\TreeView\TreeView\bin\Debug\TreeView.pdb
+c:\users\alika\source\repos\TreeView\TreeView\obj\Debug\TreeView.csprojResolveAssemblyReference.cache
+c:\users\alika\source\repos\TreeView\TreeView\obj\Debug\TreeView.FileSystemForm.resources
+c:\users\alika\source\repos\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+c:\users\alika\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.Cache
+c:\users\alika\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+c:\users\alika\source\repos\TreeView\TreeView\obj\Debug\TreeView.exe
+c:\users\alika\source\repos\TreeView\TreeView\obj\Debug\TreeView.pdb
