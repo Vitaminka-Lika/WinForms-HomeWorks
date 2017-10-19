@@ -1,0 +1,10 @@
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\bin\Debug\Fiveth.exe.config
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\bin\Debug\Fiveth.exe
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\bin\Debug\Fiveth.pdb
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\obj\Debug\Gas Station.csprojResolveAssemblyReference.cache
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\obj\Debug\WinFormHomeDZ5_17_10_17.mainForm.resources
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\obj\Debug\Fiveth.Properties.Resources.resources
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\obj\Debug\Gas Station.csproj.GenerateResource.Cache
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\obj\Debug\Gas Station.csproj.CoreCompileInputs.cache
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\obj\Debug\Fiveth.exe
+C:\Users\Alika\Desktop\WinForm(Home(DZ5))_17_10_17\Fiveth\obj\Debug\Fiveth.pdb
