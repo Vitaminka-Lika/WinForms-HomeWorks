@@ -1,0 +1,11 @@
+C:\Users\Alika\source\repos\Goods\Goods\bin\Debug\Goods.exe.config
+C:\Users\Alika\source\repos\Goods\Goods\bin\Debug\Goods.exe
+C:\Users\Alika\source\repos\Goods\Goods\bin\Debug\Goods.pdb
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.csprojResolveAssemblyReference.cache
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.EditForm.resources
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.MainForm.resources
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.Properties.Resources.resources
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.csproj.GenerateResource.Cache
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.csproj.CoreCompileInputs.cache
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.exe
+C:\Users\Alika\source\repos\Goods\Goods\obj\Debug\Goods.pdb
